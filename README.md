@@ -1,6 +1,6 @@
 ## PACKMAN
 
-This is a project for a fake "PACMAN" virus / ransomware.  The inspiration is from the movie "Hackers". It is intended for use during CTF / Redteam events (for pranking), could be used as a movie prop, or could be used for other things like confusing tech support scammers when they remote in.
+This is a project for a *fake* "PACMAN" virus / ransomware.  The inspiration is from the movie "Hackers". It is intended for use during CTF / Redteam events (for pranking), could be used as a movie prop, or could be used for other things like confusing tech support scammers when they remote in.
 
 ![screenshot](https://raw.githubusercontent.com/int3grate/PACMAN/master/screenshot.png)
 
