@@ -28,8 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.performanceCounter1 = new System.Diagnostics.PerformanceCounter();
-            ((System.ComponentModel.ISupportInitialize)(this.performanceCounter1)).BeginInit();
             this.SuspendLayout();
             // 
             // Form2
@@ -43,13 +41,10 @@
             this.ShowInTaskbar = false;
             this.Text = "Form2";
             this.Load += new System.EventHandler(this.Form2_Load);
-            //((System.ComponentModel.ISupportInitialize)(this.performanceCounter1)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Diagnostics.PerformanceCounter performanceCounter1;
     }
 }
